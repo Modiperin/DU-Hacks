@@ -9,7 +9,7 @@ cap = cv2.VideoCapture(0)
 # cap=cv2.imread('C:\\Users\\modip\\Desktop\\Project\\000028_0.jpg',cv2.IMREAD_COLOR)
 
 # Create the haar cascade
-faceCascade = cv2.CascadeClassifier("C:\\Users\\modip\\Desktop\\New folder\\classifier\\cascade.xml")
+faceCascade = cv2.CascadeClassifier("C:\\Users\\modip\\Desktop\\New folder\\classifier\\cascade.xml") #instead of this path give your own path where cascade.xml file is there
 
 # while(True):
 	# Capture frame-by-frame
