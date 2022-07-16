@@ -1,1 +1,1 @@
-# DU-Hacks
+# DU-Hacks Online Attendence System
